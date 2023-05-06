@@ -52,7 +52,11 @@ const News = () => {
         };
 
         const response = await axios.get(
-            'https://newsapi.org/v2/top-headlines',
+            // real api is only for development use in production it will not work
+            // 'https://newsapi.org/v2/top-headlines',
+
+            //Fake news api
+            'https://mocki.io/v1/005a7598-0d58-44bf-bac8-80f2661e97d1',
             {params}
         )
         setNews(response.data.articles);
@@ -69,7 +73,11 @@ const News = () => {
                 apiKey
             };
             const response = await axios.get(
-                'https://newsapi.org/v2/everything',
+                // real api is only for development use in production it will not work
+                // 'https://newsapi.org/v2/everything',
+
+                //Fake news api
+                'https://mocki.io/v1/005a7598-0d58-44bf-bac8-80f2661e97d1',
                 {params}
             )
             setSearchNews(response.data.articles)
