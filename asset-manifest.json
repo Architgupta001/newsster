@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/newsster/static/css/main.2b49d673.css",
+    "main.js": "/github.io/newsster/static/js/main.73b153d9.js",
+    "static/js/787.093d3041.chunk.js": "/github.io/newsster/static/js/787.093d3041.chunk.js",
+    "static/media/substitute.jpg": "/github.io/newsster/static/media/substitute.fd2c26e894a218ef0afa.jpg",
+    "index.html": "/github.io/newsster/index.html",
+    "main.2b49d673.css.map": "/github.io/newsster/static/css/main.2b49d673.css.map",
+    "main.73b153d9.js.map": "/github.io/newsster/static/js/main.73b153d9.js.map",
+    "787.093d3041.chunk.js.map": "/github.io/newsster/static/js/787.093d3041.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b49d673.css",
+    "static/js/main.73b153d9.js"
+  ]
+}
